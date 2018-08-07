@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Patron()
+comment1.params=PatronName\ IDentify
+comment1.target=Patron(java.lang.String,\ java.lang.String)
+comment10.params=x
+comment10.target=boolean\ checkForBook(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment4.params=
+comment4.target=java.lang.String\ getTitleA()
+comment5.params=
+comment5.target=java.lang.String\ getTitleB()
+comment6.params=
+comment6.target=java.lang.String\ getTitleC()
+comment7.params=NewTitleA
+comment7.target=void\ setTitleA(java.lang.String)
+comment8.params=NewTitleB
+comment8.target=void\ setTitleB(java.lang.String)
+comment9.params=NewTitleC
+comment9.target=void\ setTitleC(java.lang.String)
+numComments=11
